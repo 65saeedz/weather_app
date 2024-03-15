@@ -1,0 +1,23 @@
+String apiKey = "c8fd4d845ba71b1ce1396c9c7a9a2335";
+List<String> cities = [
+  "Tokyo",
+  "New York City",
+  "London",
+  "Shanghai",
+  "Beijing",
+  "Mumbai",
+  "São Paulo",
+  "Mexico City",
+  "Istanbul",
+  "Karachi",
+  "Moscow",
+  "Cairo",
+  "Dhaka",
+  "Buenos Aires",
+  "Delhi",
+  "Los Angeles",
+  "Kolkata",
+  "Manila",
+  "Lagos",
+  "Rio de Janeiro",
+];
